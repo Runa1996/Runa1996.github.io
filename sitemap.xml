@@ -4,17 +4,22 @@
 
     <sitemap>
         <loc>runa.fun/post-sitemap.xml</loc>
-        <lastmod>2019-07-12T09:14:24.872Z</lastmod>
+        <lastmod>2019-07-16T10:51:13.779Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>runa.fun/page-sitemap.xml</loc>
-        <lastmod>2019-07-12T09:14:24.924Z</lastmod>
+        <lastmod>2019-07-16T10:54:47.500Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>runa.fun/category-sitemap.xml</loc>
+        <lastmod>2019-07-16T10:51:13.779Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>runa.fun/tag-sitemap.xml</loc>
-        <lastmod>2019-07-12T09:14:24.872Z</lastmod>
+        <lastmod>2019-07-16T10:51:13.779Z</lastmod>
     </sitemap>
 
 </sitemapindex>
