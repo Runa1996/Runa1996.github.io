@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://yoursite-url</loc>
+        <loc>runa.fun</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/2017/03/18/hexo-theme-beantech/</loc>
+        <loc>runa.fun/2017/03/18/hexo-theme-beantech/</loc>
         <lastmod>2019-07-12T09:14:24.872Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -16,7 +16,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite-url/2019/07/12/hello-world/</loc>
+        <loc>runa.fun/2019/07/12/hello-world/</loc>
         <lastmod>2019-07-12T09:09:33.927Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

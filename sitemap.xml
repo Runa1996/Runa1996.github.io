@@ -3,17 +3,17 @@
 
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
+        <loc>runa.fun/post-sitemap.xml</loc>
         <lastmod>2019-07-12T09:14:24.872Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <loc>runa.fun/page-sitemap.xml</loc>
         <lastmod>2019-07-12T09:14:24.924Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
+        <loc>runa.fun/tag-sitemap.xml</loc>
         <lastmod>2019-07-12T09:14:24.872Z</lastmod>
     </sitemap>
 
